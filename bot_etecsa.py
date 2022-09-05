@@ -1,6 +1,5 @@
 #from python standar
 import os
-from re import search
 import sys
 import random
 import subprocess
